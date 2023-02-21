@@ -5,7 +5,7 @@
     <executionEnabled>true</executionEnabled>
     <id>241a6995-f518-4a48-9cd0-b8a01b2399ce</id>
     <loglevel>INFO</loglevel>
-    <name>ExportSCM</name>
+    <name>ExportSCMModified</name>
     <nodeFilterEditable>false</nodeFilterEditable>
     <plugins />
     <scheduleEnabled>true</scheduleEnabled>

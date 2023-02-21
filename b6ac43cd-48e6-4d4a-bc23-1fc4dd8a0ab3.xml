@@ -3,18 +3,18 @@
     <defaultTab>nodes</defaultTab>
     <description></description>
     <executionEnabled>true</executionEnabled>
-    <id>ab0a9190-7cb9-4595-887b-6f19c5030dbc</id>
+    <id>b6ac43cd-48e6-4d4a-bc23-1fc4dd8a0ab3</id>
     <loglevel>INFO</loglevel>
-    <name>ExportSCMV2Modified</name>
+    <name>ExportSCMV3</name>
     <nodeFilterEditable>false</nodeFilterEditable>
     <plugins />
     <scheduleEnabled>true</scheduleEnabled>
     <schedules />
     <sequence keepgoing='false' strategy='node-first'>
       <command>
-        <exec>echo anotherJob</exec>
+        <exec>echo job3</exec>
       </command>
     </sequence>
-    <uuid>ab0a9190-7cb9-4595-887b-6f19c5030dbc</uuid>
+    <uuid>b6ac43cd-48e6-4d4a-bc23-1fc4dd8a0ab3</uuid>
   </job>
 </joblist>

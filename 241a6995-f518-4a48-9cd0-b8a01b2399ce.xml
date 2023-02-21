@@ -1,0 +1,20 @@
+<joblist>
+  <job>
+    <defaultTab>nodes</defaultTab>
+    <description></description>
+    <executionEnabled>true</executionEnabled>
+    <id>241a6995-f518-4a48-9cd0-b8a01b2399ce</id>
+    <loglevel>INFO</loglevel>
+    <name>ExportSCM</name>
+    <nodeFilterEditable>false</nodeFilterEditable>
+    <plugins />
+    <scheduleEnabled>true</scheduleEnabled>
+    <schedules />
+    <sequence keepgoing='false' strategy='node-first'>
+      <command>
+        <exec>echo exporting</exec>
+      </command>
+    </sequence>
+    <uuid>241a6995-f518-4a48-9cd0-b8a01b2399ce</uuid>
+  </job>
+</joblist>

@@ -1,0 +1,20 @@
+<joblist>
+  <job>
+    <defaultTab>nodes</defaultTab>
+    <description></description>
+    <executionEnabled>true</executionEnabled>
+    <id>6ea59441-e12a-4abc-8891-2c9f15764f9f</id>
+    <loglevel>INFO</loglevel>
+    <name>fsfsefse</name>
+    <nodeFilterEditable>false</nodeFilterEditable>
+    <plugins />
+    <scheduleEnabled>true</scheduleEnabled>
+    <schedules />
+    <sequence keepgoing='false' strategy='node-first'>
+      <command>
+        <exec>echo adawdaw</exec>
+      </command>
+    </sequence>
+    <uuid>6ea59441-e12a-4abc-8891-2c9f15764f9f</uuid>
+  </job>
+</joblist>
